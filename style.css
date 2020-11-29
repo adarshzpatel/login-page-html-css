@@ -91,6 +91,7 @@ body{
 
 
 .forgot-pass{
+    font-size: 0.8rem;
     color: var(--primary);
     text-decoration: none;
     margin-left: auto;
